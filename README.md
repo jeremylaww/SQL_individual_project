@@ -20,6 +20,7 @@ Data:
 3. https://api.twitch.tv/helix/games/top
 
 Notebooks: 
+
 [Data Collection](http://localhost:8891/notebooks/Desktop/Lontok%20SQL/notebooks/data_collection.ipynb)
 This notebook contains all of the python code that was necessary to webscrape the Twitch API as well as push the data into my Amazon AwS RDS Instance 
 
